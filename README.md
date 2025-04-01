@@ -36,7 +36,7 @@ Il permet d’afficher, d’organiser et de manipuler les fichiers et dossiers d
 Voici quelques images illustrant le fonctionnement du programme
 
 ***Navigation des fichiers et dossiers :***
-![]<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/1_081251.png>
+https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/1_081251.png
 ***Barre de recherche***
 ![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.1_081252.png>]
 
