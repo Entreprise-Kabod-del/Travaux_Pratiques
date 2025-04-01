@@ -36,95 +36,94 @@ Il permet d’afficher, d’organiser et de manipuler les fichiers et dossiers d
 Voici quelques images illustrant le fonctionnement du programme
 
 ***Navigation des fichiers et dossiers :***
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/1_081251.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/1_081251.png>]
 ***Barre de recherche***
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.1_081252.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.1_081252.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.2_081254.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.2_081254.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.3_081256.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/2.3_081256.png>]
 
 
 ***Filtrage des fichiers et dossiers***
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/3.1_081258.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/3.1_081258.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/3.2_081259.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/3.2_081259.png>]
 
 
 
 ***Gestion des favoris***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.1_081300.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.1_081300.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.2_081301.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.2_081301.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.3_081302.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/4.3_081302.png>]
 
 
 ***Affichage des disques disponibles***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/6_081304.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/6_081304.png>]
 
 
 ***Gestion des fichiers***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.1_081305.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.1_081305.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.2_081306.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.2_081306.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.3_081308.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.3_081308.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.4_081309.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.4_081309.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.5_081311.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.5_081311.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.6_081312.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/7.6_081312.png>]
 
 
 ***Création de dossiers***
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/8.1_081314.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/8.1_081314.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/8.2_081316.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/8.2_081316.png>]
 
 
 ***Ouverture de fichiers***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/9.1_081317.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/9.1_081317.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/9.2_081319.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/9.2_081319.png>]
 
 ***Menu contextuel:***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/10.1_081321.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/10.1_081321.png>]
 
 ***Double-clic pour ouvrir***
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/11.1_083317.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/11.1_083317.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/11.2_081241.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/11.2_081241.png>]
 
 ***Actualisation de l'affichage***
 
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.1_083323.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.1_083323.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.2_083231.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.2_083231.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.3_083238.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/12.3_083238.png>]
 
 ***Ajout et gestion des favoris***
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.1_083240.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.1_083240.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.2_083241.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.2_083241.png>]
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.3_083243>.
-png
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.3_083243.png>]
 
 
 ***Affichage des erreurs avec des messages d’alerte***
 Exemple : recherche d'un fichier ou dossier qui n'est pas dans le répertoire
 
-<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.4_083244.png>
+![<https://github.com/Entreprise-Kabod-del/Notre_projet/blob/1f53bfb9cc846d996f7b13fe35c11959c7f63481/13.4_083244.png>]
 
 
 ***NB***: Chaque fonctionnalité est illustrée des images permettant de le mettre en cause
